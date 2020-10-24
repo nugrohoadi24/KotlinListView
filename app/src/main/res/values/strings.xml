@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Kotlin ListView</string>
+    <string name="nama_asatidz">Nama Asatidz</string>
+    <string name="deskripsi_asatidz">Deskripsi Asatidz</string>
+
+    <string-array name="data_name">
+        <item>Habib Rizieq</item>
+        <item>Kyai Hasan Abdullah Sahal</item>
+        <item>Ust. Adi Hidayat</item>
+        <item>Ust. Abdul Somad</item>
+        <item>Ust. Khalid Basalamah</item>
+        <item>Ust. Syafiq Riza Basalamah</item>
+        <item>Ust. Fatih Karim</item>
+        <item>Ust. Hanan Attaki</item>
+        <item>Ust. Salim A Fillah</item>
+        <item>Ust. Bachtiar Nasir</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Habib Muhammad Rizieq bin Hussein Shihab, Lc., M.A. adalah seorang tokoh Islam Indonesia yang dikenal sebagai pemimpin dan pendiri organisasi Front Pembela Islam.</item>
+        <item>KH Hasan Abdullah Sahal adalah seorang Pimpinan Pondok Modern Darussalam Gontor Ponorogo bersama 2 orang lainnya Dr. KH Abdullah Syukri Zarkasyi, MA dan KH Syamsul Hadi Abdan, S.Ag </item>
+        <item>Ustaz Dr. Adi Hidayat, Lc., M.A. adalah seorang ulama asal Indonesia yang dapat menguasai isi kitab suci Alquran beserta letak barisnya. Selain itu, ia juga menguasai ilmu hadis dan berbagai kitab agama beserta makna dan posisinya.</item>
+        <item>Ustaz Prof. H. Abdul Somad Batubara, Ph.D., Datuk Seri Ulama Setia Negara, adalah seorang pendakwah dan ulama Indonesia yang sering mengulas berbagai macam persoalan agama, khususnya kajian ilmu hadis dan Ilmu fikih.</item>
+        <item>Ustadz Dr. Khalid Zeed Abdullah Basalamah, Lc., M.A. atau lebih dikenal Khalid Basalamah adalah seorang pendakwah Indonesia yang berasal dari Makassar, Sulawesi Selatan</item>
+        <item>Ustadz Dr. Syafiq Riza Basalamah merupakan seorang pendakwah Indonesia yang berasal dari Jember. Beliau adalah alumni Universitas Islam Madinah </item>
+        <item>Ustadz Fatih Karim merupakan seorang pendakwah Indonesia yang aktif berdakwah pada bidang Al Quran, Bisnis dan Perkantoran</item>
+        <item>Tengku Hanan Attaki, Lc. adalah seorang pendakwah Indonesia yang menyampaikan ceramah yang dekat dengan keseharian dan gaya anak muda. Ia merupakan pendiri gerakan Pemuda Hijrah SHIFT</item>
+        <item>Salim A. Fillah adalah seorang penulis buku islami dari Yogyakarta, Indonesia. Namanya mulai dikenal luas setelah menerbitkan buku Nikmatnya Pacaran setelah pernikahan. Selain itu Salim A. Fillah merupakan penggiat Masjid Jogokariyan Yogyakarta.</item>
+        <item>Ustadz Bachtiar Nasir, Lc. MM. adalah seorang Da’i dan Ulama’ yang sangat sering mengkaji dan mendalami Ilmu-Ilmu Al-Qur’an. Ustadz Bachtiar Nasir adalah Founder AQL Islamic Centre</item>
+    </string-array>
+
+    <string-array name="data_foto">
+        <item>@drawable/habib_rizieq</item>
+        <item>@drawable/kyai_hasan</item>
+        <item>@drawable/adi_hidayat</item>
+        <item>@drawable/abdul_somad</item>
+        <item>@drawable/khalid_basalamah</item>
+        <item>@drawable/syafiq_reza</item>
+        <item>@drawable/fatih_karim</item>
+        <item>@drawable/hanan_attaki</item>
+        <item>@drawable/salim_fillah</item>
+        <item>@drawable/bachtiar_nasir</item>
+    </string-array>
+</resources>
